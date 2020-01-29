@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-<img src="https://recordit.co/iERgRioGWL" width=250><br>
+<img src="https://recordit.co/iERgRioGWL.gif" width=250><br>
 
 ### Notes
 Had some typos, took a lot longer than expected to fix as error messages are quite sparse
